@@ -1,4 +1,5 @@
 LearnNow
 ========
 
-This is an android application about education.
+
+This is an android application for education.
