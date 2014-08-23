@@ -1,4 +1,4 @@
 LearnNow
 ========
 
-My first application on github
+This is an android application about education.
